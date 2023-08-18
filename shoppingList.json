@@ -1,0 +1,9 @@
+[
+  { "categoryName": "Fruits", "product": "Apple" },
+  { "categoryName": "Vegetables", "product": "Cucumber" },
+  { "categoryName": "Meat", "product": "Chicken" },
+  { "categoryName": "Dairy", "product": "Cheese" },
+  { "categoryName": "Fish", "product": "Salmon" }
+]
+
+
